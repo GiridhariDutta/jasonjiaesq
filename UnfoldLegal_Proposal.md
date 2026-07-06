@@ -1,35 +1,8 @@
-# Proposal Strategy for Unfold Legal AI
+# Technical Proposal: Unfold Legal AI
 
-Here is the complete pitch package you need to send to Jason Jia. It includes a high-converting email, a 90-day roadmap, and a technical architecture diagram to prove your engineering capabilities.
+## 1. System Architecture
 
----
-
-## 1. The Email Pitch (Send this to Jason)
-
-**Subject:** Founding Mobile Engineering - Prototype & Architecture for Unfold AI
-
-**Hi Jason,**
-
-I saw your opening for a Founding Mobile Development Engineer. At GS3 Solution LLC, my team specializes in exactly this: building secure, mobile-first applications powered by LLM workflows.
-
-Instead of a standard resume, we built a premium UI prototype and mapped out the technical architecture for Unfold Legal AI.
-
-You can view the Mobile Prototype, our System Architecture, and the 90-Day Roadmap here:
-**[Insert Your Live Link Here]**
-
-We’d love to jump on a quick 15-minute call to discuss how we can accelerate your launch as your engineering partners. Are you available for a brief chat this Thursday or Friday?
-
-Best,
-
-**Giri Dutta**  
-Founder & Chief Architect  
-**GS3 Solution LLC**
-
----
-
-## 2. The Technical Architecture (The Brain)
-
-*You can screenshot this diagram or send the text to show you understand the full stack.*
+*Below is the high-level architecture diagram demonstrating how we will securely integrate your B2B platform with a scalable B2C mobile application.*
 
 ```mermaid
 graph TD
@@ -89,9 +62,9 @@ graph TD
 
 ---
 
-## 3. The 90-Day Execution Roadmap
+## 2. The 90-Day Execution Roadmap
 
-*If he asks how long it will take, present this timeline:*
+*A clear timeline of how we will act as your Founding Engineering Team:*
 
 - **Month 1: Foundation & Security**
   - Setup Flutter mobile architecture for iOS and Android.
