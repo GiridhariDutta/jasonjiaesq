@@ -6,30 +6,24 @@ Here is the complete pitch package you need to send to Jason Jia. It includes a 
 
 ## 1. The Email Pitch (Send this to Jason)
 
-**Subject:** Founding Mobile Engineering for Unfold Legal AI - Architecture & Prototype
+**Subject:** Founding Mobile Engineering - Prototype & Architecture for Unfold AI
 
 **Hi Jason,**
 
-I hope you’re having a great week. 
+I saw your opening for a Founding Mobile Development Engineer. At GS3 Solution LLC, my team specializes in exactly this: building secure, mobile-first applications powered by LLM workflows.
 
-I saw your posting for a Founding Mobile Development Engineer at Unfold Legal AI and wanted to reach out. As the Founder & Chief Architect at GS3 Solution LLC, my team and I specialize in exactly what you are trying to build: **secure, mobile-first applications powered by complex LLM workflows and AI document automation.**
+Instead of a standard resume, we built a premium UI prototype and mapped out the technical architecture for Unfold Legal AI.
 
-Instead of just sending a standard resume, we took the liberty of designing a working UI prototype of how your mobile-first legal tech product could look and function. 
+You can view the Mobile Prototype, our System Architecture, and the 90-Day Roadmap here:
+**[Insert Your Live Link Here]**
 
-**[Insert Link to the Premium Prototype Here]**
+We’d love to jump on a quick 15-minute call to discuss how we can accelerate your launch as your engineering partners. Are you available for a brief chat this Thursday or Friday?
 
-Furthermore, we’ve mapped out the technical architecture required to securely integrate your B2B platform's backend with a scalable B2C mobile application. We understand that in legal tech, deploying LLM workflows while maintaining absolute data security (SOC2/HIPAA standards) is paramount.
-
-We would love to jump on a quick 15-minute call to show you the backend architecture model we've designed for Unfold Legal AI and discuss how we can act as your Founding Engineering Team to accelerate your launch.
-
-Are you available for a brief chat this Thursday or Friday?
-
-Best regards,
+Best,
 
 **Giri Dutta**  
 Founder & Chief Architect  
-**GS3 Solution LLC**  
-[Phone Number] | [LinkedIn Link]
+**GS3 Solution LLC**
 
 ---
 
